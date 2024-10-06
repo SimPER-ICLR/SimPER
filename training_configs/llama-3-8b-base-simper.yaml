@@ -23,7 +23,7 @@ gradient_checkpointing: true
 gradient_checkpointing_kwargs:
   use_reentrant: False
 hub_model_id: simper-exps
-learning_rate: 6.0e-7
+learning_rate: 1.0e-6
 log_level: info
 logging_steps: 5
 lr_scheduler_type: cosine
