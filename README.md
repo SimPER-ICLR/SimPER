@@ -45,7 +45,7 @@ ACCELERATE_LOG_LEVEL=info accelerate launch --config_file accelerate_configs/dee
 
 ## Evaluation
 
-We follow the official implementation for evaluation on AlpacaEval 2, MT-Bench and Open LLM Leadboard (v1&v2), as follows:
+We follow the official implementation for evaluation on AlpacaEval 2, MT-Bench and Open LLM Leadboard (v1&v2):
 
 * AlpacaEval 2: Please refer to the [AlpacaEval repo](https://github.com/tatsu-lab/alpaca_eval) for evaluation.
 
